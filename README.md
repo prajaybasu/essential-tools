@@ -18,6 +18,18 @@
 
 ### Customization
 * [Stylus](https://github.com/stylus/stylus)
+  * [Google](https://github.com/elibroftw/google-dark-theme)
+  * [Old New Twitter](https://userstyles.org/styles/173651/old-new-twitter)
+  * [Instagram](https://userstyles.org/styles/174245/dark-instagram)
+  * [Wikipedia](https://github.com/StylishThemes/Wikipedia-Dark)
+  * [StackOverflow](https://github.com/StylishThemes/StackOverflow-Dark)
+  * [Quora](https://github.com/StylishThemes/Quora-Dark)
+  * [GitHub](https://github.com/StylishThemes/GitHub-Dark)
+  * [Userstyles.org](http://userstyles.org/styles/133817)
+  * [LinkedIn](https://userstyles.org/styles/173399/linkeddark)
+  * [Unity Documentation](https://userstyles.org/styles/173896/unity-documentation-dark-theme)
+  * [Unity Forum](https://userstyles.org/styles/132368/unity-forum-dark)
+  
 * [Violentmonkey](https://github.com/violentmonkey/violentmonkey) 
   * [GreasyFork Bullshit Filter](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
   * [Old Reddit Please!](https://greasyfork.org/en/scripts/40897-old-reddit-please)
