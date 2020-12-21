@@ -11,7 +11,7 @@
   * [Malvertising list by Disconnect](http://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt)
   * [Fanboy's Indian](https://secure.fanboy.co.nz/fanboy-indian.txt)
   * [EasyList Indian](https://easylist-downloads.adblockplus.org/indianlist.txt)
-* [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)[uBlock Origin compatability note](https://git.synz.io/Synzvato/decentraleyes/-/wikis/Frequently-Asked-Questions)  
+* [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)<sup>[[uBlock Origin compatability note]](https://git.synz.io/Synzvato/decentraleyes/-/wikis/Frequently-Asked-Questions)</sup>  
 * [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls)  
 * [Bypass Paywalls Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)  
 * [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
