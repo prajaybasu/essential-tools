@@ -1,6 +1,6 @@
 # Extensions
 
-### Tracking Protection and Adblock
+### Tracking Protection and Annoyances
 * [uBlock Origin](https://github.com/gorhill/uBlock)  
   * [NoCoin Filter List](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
   * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
@@ -15,6 +15,7 @@
 * [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls)  
 * [Bypass Paywalls Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)  
 * [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+* [Universal Bypass](https://github.com/Sainan/Universal-Bypass)
 
 ### Customization
 * [Stylus](https://github.com/stylus/stylus)
