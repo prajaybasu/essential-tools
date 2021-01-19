@@ -2,6 +2,7 @@
 
 ### Tracking Protection and Annoyances
 * [uBlock Origin](https://github.com/gorhill/uBlock)  
+  * [BarbBlock](https://ssl.bblck.me/blacklists/ublock-origin.txt)
   * [NoCoin Filter List](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
   * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
   * [Anti-paywall filters](https://github.com/llacb47/miscfilters/blob/master/antipaywall.txt)
@@ -24,12 +25,11 @@
   * [Instagram](https://userstyles.org/styles/174245/dark-instagram)
   * [Wikipedia](https://github.com/StylishThemes/Wikipedia-Dark)
   * [StackOverflow](https://github.com/StylishThemes/StackOverflow-Dark)
-  * [Quora](https://github.com/StylishThemes/Quora-Dark)
-  * [GitHub](https://github.com/StylishThemes/GitHub-Dark)
   * [Userstyles.org](http://userstyles.org/styles/133817)
   * [LinkedIn](https://userstyles.org/styles/173399/linkeddark)
   * [Unity Documentation](https://userstyles.org/styles/173896/unity-documentation-dark-theme)
   * [Unity Forum](https://userstyles.org/styles/132368/unity-forum-dark)
+  * [Hacker News Dark](https://userstyles.org/styles/113994/hacker-news-dark)
   
 * [Violentmonkey](https://github.com/violentmonkey/violentmonkey) 
   * [GreasyFork Bullshit Filter](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
@@ -37,7 +37,6 @@
   * [4chan X](https://github.com/ccd0/4chan-x/)
   * [Google Image Direct View](https://greasyfork.org/en/scripts/398189-google-image-direct-view)
   * [Auto Load Big Image](https://greasyfork.org/en/scripts/398185-auto-load-big-image)
-  * [Instagram Story Saver](https://greasyfork.org/en/scripts/398186-instagram-story-saver)
 
 ### Unlabelled Promotion Shielding
 * [De-Mainstream Youtube](https://github.com/miscavage/De-Mainstream-YouTube-Extension)  
