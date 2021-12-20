@@ -2,7 +2,7 @@
 
 ### Tracking Protection and Annoyances
 * [uBlock Origin](https://github.com/gorhill/uBlock)  
-  * [BarbBlock](https://ssl.bblck.me/blacklists/ublock-origin.txt)
+  * [BarbBlock](https://paulgb.github.io/BarbBlock/blacklists/ublock-origin.txt)
   * [NoCoin Filter List](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
   * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
   * [Anti-paywall filters](https://github.com/llacb47/miscfilters/blob/master/antipaywall.txt)
